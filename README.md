@@ -90,7 +90,7 @@ Currently pursuing a **B.E. in Artificial Intelligence & Robotics** , I bring a 
 |---|---|
 | Data Science | Code with Harry |
 | Machine Learning, Deep Learning & NLP | Udemy |
-| LLM Engineering | Udemy *(in progress)* |
+| LLM Engineering | Udemy |
 
 ---
 
