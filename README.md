@@ -20,7 +20,7 @@
 
 Machine Learning Engineer with hands-on experience across the full ML lifecycle — from data preprocessing and feature engineering to model development, evaluation, and deployment. I specialize in building real-world AI solutions using **NLP**, **Generative AI**, and **LLM-powered applications**.
 
-Currently pursuing a **B.E. in Artificial Intelligence & Robotics** (CGPA: **9.6**), I bring a strong foundation in both theory and applied engineering.
+Currently pursuing a **B.E. in Artificial Intelligence & Robotics** , I bring a strong foundation in both theory and applied engineering.
 
 > 💡 *What I bring to the table:* The ability to go from a messy dataset to a production-ready ML solution — fast, clean, and effective.
 
